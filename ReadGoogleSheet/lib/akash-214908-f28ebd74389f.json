@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "akash-214908",
+  "private_key_id": "f28ebd74389f26e7f5cfe893ec0f377c986d19a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuG1HWgrqgU170\nmYWwLlvdVqZgTYtVGIUzoVZUK3xyKdldLptDxydkAo66q4o7YVYlFz8zZl2aANmM\nPPNh4GgGeN+x0mN9x9L4zQvfcmNKOdU4MoSRnM44DJJwqUZV9lT7Sbd9Xiaesvlj\noCIYotZ4/9j5bqBHEadI+6jmxVyr1zEBC6TRvD/EPYh+1Gm7pfQB2JAZKzjkqfVT\n39m+CSSb811HFuYPjnCmhLKo2t1jUwO933ouwlAXKSC5WcmMmvkv5mK0OE20f19W\nTDrty8fcshJVGx4K7w2vBQhL+LULpBZ6zjvP46JW1i8GdjuH30iZtkSebOwnmFOI\nMDop4DWxAgMBAAECggEAAN1H5lY3PwzCPs8CHnCkXpnh3lcuqQXgNECzdiqAdu+b\nGaLdt5+WCyprjpv1bTkOwnbsXcHQyLDYZzTs5gt+F5v3jyzbQcZEF3L5Uzvwjxob\nMYj18wtCLLNTceDQQ8hPXD2aKpYxapmazRjo+cIu7OsuMzgZI9+heSEVqr5bo5kP\n9XbZiLyrKLEH2lc6LP5Y+CrzMR0Y4SlupKl/E5hNU6XgBdm0WKqQjHbc9L7csyrm\nv3k+4UuyiZC3CAkYxSfl7M+iHxizDwp382ewWXGA4KRQy0rzTBYxsZIL/dS9aBys\nrNmpge0TomKUKFQ4g96D2gGWtxwz7bosM5cfN+GkAQKBgQDmwvG9JtoHsajERwzG\nlA2po3J0F7mJa/c8eoNOeRPg/LmclzJphvSWwKztrvivfDatljyQ00TtxAWyaMRT\nxDbY765ZCYXYKFpguPkNt37188PYyisioO9Hfuf4oxy48lWZGwyBDAUhmtYARp0a\nmod96PvUZviPkX9E6+D85o0cAQKBgQDBJhtZQ8X+EZGRY9wPMB9BjeqPl/AzrgVa\nXTtrfZJ3rBIkQjH+2G7YVvXVmWXGyV4XCTDt+ByO/jjdwCYP4m5HoknIbs5gtG4h\nQyG5kCIRvVRoBVJ4FPtzQZ8zXpCgHEfX+/do1ekFxEONPl4ZudgFBy5qZkdsYgB7\nW/gOEZPZsQKBgQCZew2XtjCLr4FFUtBPf4d6zchBKMpxeUrOgdm1ptgu60h0uyd/\ngpBJeEtMJvUmmqIvYF5WIP6WeaskV4RFBptIPFokxC2ucGB0NnMHyYT7By+6j/SS\nqqGbVu/osmxXIm8GTzRI3HrJOBefxVeWqzL07rIYOoiVzLruV0ikTJ+MAQKBgDZC\nqU4zbuzILLfGcOzHXRCCeNGsImuySIixRl8VIM+DxHjxK7BnRwR5sYg3FtN4gHlC\nOL+xgvxcyMbrEwZFWyu+mLG5Bzs9lO69OD00E44ePRcX36oiYt1nIv1AZKrGJxyz\nCTcnWNYo471LNw5NGjWXZd+4Kfp1saL2HEJ/h6SRAoGAZ/3pWHKoyCb09eJFbmD5\nTeLyJhcWziQAKZrcalDVb5rz2/HCU0PGM5O9jCnggiLtiErVgvQSlRpnXZNFBTKB\nle6/n138y/N7QrjDuIn2L6nE1feF73e3Ub5rq/aOiYTknNX4+MetvsXX/XBZEkul\nwsiWV08SKlg1tjAPa1/no1o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "akashserviceaccount@akash-214908.iam.gserviceaccount.com",
+  "client_id": "101455425742564516920",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/akashserviceaccount%40akash-214908.iam.gserviceaccount.com"
+}
